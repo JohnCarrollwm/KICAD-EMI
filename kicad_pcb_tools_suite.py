@@ -12,7 +12,7 @@ A comprehensive plugin with multiple tools:
 - Comprehensive field monitoring
 - (Extensible for more tools)
 
-Author: Claude
+Author: John Carroll, using Claude (for the Visual Windows)
 Version: 2.8.2
 License: MIT
 """
